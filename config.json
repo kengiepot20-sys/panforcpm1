@@ -23,6 +23,12 @@
       "expiry": "13/05/2026",
       "device": "",
       "sid": "CPM1"
+    },
+    "Wyn": {
+      "password": "CPMWyn!22",
+      "expiry": "28/04/2026",
+      "device": "1776079127",
+      "sid": "CPM1"
     }
   }
 }
