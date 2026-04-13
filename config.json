@@ -17,6 +17,12 @@
       "expiry": "20/04/2026",
       "device": "",
       "sid": "CPM1"
+    },
+    "nexora": {
+      "password": "nexora123",
+      "expiry": "13/05/2026",
+      "device": "",
+      "sid": "CPM1"
     }
   }
 }
