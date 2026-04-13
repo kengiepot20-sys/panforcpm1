@@ -1,1 +1,16 @@
-
+{
+  "version": "4.9.8",
+  "script_url": "",
+  "new_name": "",
+  "news_msg": "",
+  "show_news": false,
+  "maintenance": false,
+  "users": {
+    "test": {
+      "password": "test",
+      "expiry": "13/05/2026",
+      "device": "",
+      "sid": "CPM1"
+    }
+  }
+}
