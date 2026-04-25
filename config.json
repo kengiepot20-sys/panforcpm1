@@ -2,7 +2,7 @@
   "version": "4.9.8.0",
   "script_url": "https://github.com/kengiepot20-sys/panforcpm1/raw/refs/heads/main/CAR%20PARKING%20MULTIPLAYER%201%20(VIP_4.9.8)_enc.lua",
   "new_name": "CAR PARKING MULTIPLAYER 1 (VIP_4.9.8)_enc.lua",
-  "news_msg": "Click Update inside the script only (VIP users only).\n\nÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ New Features:\nAdded new copy car method (please test if itÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs fixed)\nAdded premium event system\nAdded construction event mission (500K EXP reward)\nAdded house system",
+  "news_msg": "Click Update inside the script only (VIP users only).\n\nÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ New Features:\nAdded new copy car method (please test if itÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs fixed)\nAdded premium event system\nAdded construction event mission (500K EXP reward)\nAdded house system",
   "show_news": true,
   "maintenance": false,
   "users": {
@@ -40,6 +40,12 @@
       "password": "zenn",
       "expiry": "17/11/2026",
       "device": "1775283571",
+      "sid": "CPM1"
+    },
+    "Doofenshmirtz": {
+      "password": "Doofenshmirtz11",
+      "expiry": "25/12/2026",
+      "device": "1777084093",
       "sid": "CPM1"
     }
   }
