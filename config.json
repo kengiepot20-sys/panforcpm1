@@ -59,6 +59,12 @@
       "expiry": "04/08/2026",
       "device": "1777778789",
       "sid": "CPM1"
+    },
+    "kinzi": {
+      "password": "kobe",
+      "expiry": "01/01/2099",
+      "device": "1771033509",
+      "sid": "CPM1"
     }
   }
 }
