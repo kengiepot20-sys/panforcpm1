@@ -65,6 +65,12 @@
       "expiry": "01/01/2099",
       "device": "1771033509",
       "sid": "CPM1"
+    },
+    "Rvsxx": {
+      "password": "Rvsxx21",
+      "expiry": "01/01/2099",
+      "device": "1771154178",
+      "sid": ""
     }
   }
 }
