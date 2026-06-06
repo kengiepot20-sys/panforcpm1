@@ -83,6 +83,12 @@
       "expiry": "31/12/2026",
       "device": "",
       "sid": "CPM1"
+    },
+    "Jerrymi": {
+      "password": "cpm123",
+      "expiry": "06/07/2026",
+      "device": "1780726972",
+      "sid": "CPM1"
     }
   }
 }
