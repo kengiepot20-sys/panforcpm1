@@ -89,6 +89,12 @@
       "expiry": "06/07/2026",
       "device": "1780726972",
       "sid": "CPM1"
+    },
+    "KinziTester": {
+      "password": "FreeScriptForEveryone",
+      "expiry": "18/06/2026",
+      "device": "",
+      "sid": "CPM1"
     }
   }
 }
