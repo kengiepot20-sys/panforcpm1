@@ -95,6 +95,12 @@
       "expiry": "18/06/2026",
       "device": "",
       "sid": "CPM1"
+    },
+    "rvsrvs": {
+      "password": "rvsrvs1",
+      "expiry": "21/07/2026",
+      "device": "1782050983",
+      "sid": "CPM1"
     }
   }
 }
