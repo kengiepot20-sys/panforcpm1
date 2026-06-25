@@ -101,6 +101,12 @@
       "expiry": "21/07/2026",
       "device": "1782050983",
       "sid": "CPM1"
+    },
+    "KINZICPM": {
+      "password": "t.me/kinzicpmchannel",
+      "expiry": "13/07/2026",
+      "device": "",
+      "sid": "CPM1"
     }
   }
 }
