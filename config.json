@@ -2,8 +2,8 @@
   "version": "4.9.10",
   "script_url": "https://github.com/kengiepot20-sys/panforcpm1/raw/refs/heads/main/4.9.9.lua",
   "new_name": "CAR PARKING MULTIPLAYER 1 (VIP_4.9.10(2.0))_enc.lua",
-  "news_msg": "",
-  "show_news": false,
+  "news_msg": "NEW SCRIPT 4.9.10 HAVE BEEN RELEASED!",
+  "show_news": true,
   "maintenance": false,
   "users": {
     "test": {
