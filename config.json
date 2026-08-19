@@ -107,6 +107,12 @@
       "expiry": "13/07/2026",
       "device": "",
       "sid": "CPM1"
+    },
+    "JOINMYDISCORDCHANNEL": {
+      "password": "https://discord.gg/U8fWxwes5",
+      "expiry": "26/08/2026",
+      "device": "",
+      "sid": "CPM1"
     }
   }
 }
