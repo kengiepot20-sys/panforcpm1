@@ -113,6 +113,12 @@
       "expiry": "26/08/2026",
       "device": "",
       "sid": "CPM1"
+    },
+    "ogy": {
+      "password": "ogyaaaa",
+      "expiry": "01/01/2099",
+      "device": "1770248572",
+      "sid": "CPM1"
     }
   }
 }
