@@ -110,7 +110,7 @@
     },
     "JOINMYDISCORDCHANNEL": {
       "password": "https://discord.gg/U8fWxwes5",
-      "expiry": "29/09/2026",
+      "expiry": "01/01/2099",
       "device": "",
       "sid": "CPM1"
     },
