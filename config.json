@@ -1,130 +1,136 @@
 {
-  "version": "4.9.10",
-  "script_url": "https://github.com/kengiepot20-sys/panforcpm1/raw/refs/heads/main/4.9.9.lua",
-  "new_name": "CAR PARKING MULTIPLAYER 1 (VIP_4.9.10(2.0))_enc.lua",
-  "news_msg": "NEW SCRIPT 4.9.10 HAVE BEEN RELEASED!",
-  "show_news": true,
-  "maintenance": false,
-  "users": {
-    "test": {
-      "password": "test",
-      "expiry": "13/05/2026",
-      "device": "",
-      "sid": "CPM1"
-    },
-    "kinzicpmchannel": {
-      "password": "https://t.me/kinzicpmchannel",
-      "expiry": "20/04/2026",
-      "device": "",
-      "sid": "CPM1"
-    },
-    "nexora": {
-      "password": "nexora123",
-      "expiry": "13/05/2026",
-      "device": "",
-      "sid": "CPM1"
-    },
-    "Wyn": {
-      "password": "CPMWyn!22",
-      "expiry": "29/07/2026",
-      "device": "1776079127",
-      "sid": "CPM1"
-    },
-    "mustibaba1.": {
-      "password": "mustibaba",
-      "expiry": "05/06/2026",
-      "device": "",
-      "sid": "CPM1"
-    },
-    "sainty": {
-      "password": "zenn",
-      "expiry": "17/11/2026",
-      "device": "1775283571",
-      "sid": "CPM1"
-    },
-    "Doofenshmirtz": {
-      "password": "Doofenshmirtz11",
-      "expiry": "25/12/2026",
-      "device": "1777084093",
-      "sid": "CPM1"
-    },
-    "DaveFrancisB": {
-      "password": "Davebienes42022",
-      "expiry": "26/06/2026",
-      "device": "1777172374",
-      "sid": "CPM1"
-    },
-    "SAGE55": {
-      "password": "SAGE66@",
-      "expiry": "04/08/2026",
-      "device": "1777778789",
-      "sid": "CPM1"
-    },
-    "kinzi": {
-      "password": "kobe",
-      "expiry": "01/01/2099",
-      "device": "1771033509",
-      "sid": "CPM1"
-    },
-    "Rvsxx": {
-      "password": "Rvsxx21",
-      "expiry": "01/01/2099",
-      "device": "1771154178",
-      "sid": "CPM1"
-    },
-    "RvsGarage": {
-      "password": "Gianis",
-      "expiry": "04/07/2026",
-      "device": "1771154178",
-      "sid": "CPM1"
-    },
-    "BGCPM1": {
-      "password": "123123",
-      "expiry": "31/12/2026",
-      "device": "",
-      "sid": "CPM1"
-    },
-    "Jerrymi": {
-      "password": "cpm123",
-      "expiry": "06/07/2026",
-      "device": "1780726972",
-      "sid": "CPM1"
-    },
-    "KinziTester": {
-      "password": "FreeScriptForEveryone",
-      "expiry": "18/06/2026",
-      "device": "",
-      "sid": "CPM1"
-    },
-    "rvsrvs": {
-      "password": "rvsrvs1",
-      "expiry": "21/07/2026",
-      "device": "1782050983",
-      "sid": "CPM1"
-    },
-    "KINZICPM": {
-      "password": "https://t.me/kinzicpmchannel",
-      "expiry": "13/07/2026",
-      "device": "",
-      "sid": "CPM1"
-    },
-    "JOINMYDISCORDCHANNEL": {
-      "password": "https://discord.gg/U8fWxwes5",
-      "expiry": "01/01/2099",
-      "device": "",
-      "sid": "CPM1"
-    },
-    "ogy": {
-      "password": "ogyaaaa",
-      "expiry": "01/01/2099",
-      "device": "1770248572",
-      "sid": "CPM1"
-    },
-    "Yasuoo": {
-      "password": "Cpm321",
-      "expiry": "01/01/2099",
-      "device": "1787364215",
-      "sid": "CPM1"
+    "version": "4.9.10",
+    "script_url": "https://github.com/kengiepot20-sys/panforcpm1/raw/refs/heads/main/4.9.9.lua",
+    "new_name": "CAR PARKING MULTIPLAYER 1 (VIP_4.9.10(2.0))_enc.lua",
+    "news_msg": "NEW SCRIPT 4.9.10 HAVE BEEN RELEASED!",
+    "show_news": true,
+    "maintenance": false,
+    "users": {
+        "BGCPM1": {
+            "password": "123123",
+            "expiry": "2026-12-31",
+            "device": "",
+            "sid": "CPM1"
+        },
+        "DaveFrancisB": {
+            "password": "Davebienes42022",
+            "expiry": "2026-06-26",
+            "device": "1777172374",
+            "sid": "CPM1"
+        },
+        "Doofenshmirtz": {
+            "password": "Doofenshmirtz11",
+            "expiry": "2026-12-25",
+            "device": "1777084093",
+            "sid": "CPM1"
+        },
+        "Jerrymi": {
+            "password": "cpm123",
+            "expiry": "2026-07-06",
+            "device": "1780726972",
+            "sid": "CPM1"
+        },
+        "JOINMYDISCORDCHANNEL": {
+            "password": "https://discord.gg/U8fWxwes5",
+            "expiry": "2099-01-01",
+            "device": "",
+            "sid": "CPM1"
+        },
+        "kinzi": {
+            "password": "kobe",
+            "expiry": "2099-01-01",
+            "device": "1771033509",
+            "sid": "CPM1"
+        },
+        "KINZICPM": {
+            "password": "https://t.me/kinzicpmchannel",
+            "expiry": "2026-07-13",
+            "device": "",
+            "sid": "CPM1"
+        },
+        "kinzicpmchannel": {
+            "password": "https://t.me/kinzicpmchannel",
+            "expiry": "2026-04-20",
+            "device": "",
+            "sid": "CPM1"
+        },
+        "KinziTester": {
+            "password": "FreeScriptForEveryone",
+            "expiry": "2026-06-18",
+            "device": "",
+            "sid": "CPM1"
+        },
+        "mustibaba1.": {
+            "password": "mustibaba",
+            "expiry": "2026-06-05",
+            "device": "",
+            "sid": "CPM1"
+        },
+        "nexora": {
+            "password": "nexora123",
+            "expiry": "2026-05-13",
+            "device": "",
+            "sid": "CPM1"
+        },
+        "ogy": {
+            "password": "ogyaaaa",
+            "expiry": "2099-01-01",
+            "device": "1770248572",
+            "sid": "CPM1"
+        },
+        "RvsGarage": {
+            "password": "Gianis",
+            "expiry": "2026-07-04",
+            "device": "1771154178",
+            "sid": "CPM1"
+        },
+        "rvsrvs": {
+            "password": "rvsrvs1",
+            "expiry": "2026-07-21",
+            "device": "1782050983",
+            "sid": "CPM1"
+        },
+        "Rvsxx": {
+            "password": "Rvsxx21",
+            "expiry": "2099-01-01",
+            "device": "1771154178",
+            "sid": "CPM1"
+        },
+        "sadfghasdfg": {
+            "password": "asdfghjasdfgh",
+            "expiry": "2026-11-28",
+            "device": "sdfgh",
+            "sid": "asdfg"
+        },
+        "SAGE55": {
+            "password": "SAGE66@",
+            "expiry": "2026-08-04",
+            "device": "1777778789",
+            "sid": "CPM1"
+        },
+        "sainty": {
+            "password": "zenn",
+            "expiry": "2026-11-17",
+            "device": "1775283571",
+            "sid": "CPM1"
+        },
+        "test": {
+            "password": "test",
+            "expiry": "2026-05-13",
+            "device": "",
+            "sid": "CPM1"
+        },
+        "Wyn": {
+            "password": "CPMWyn!22",
+            "expiry": "2026-07-29",
+            "device": "1776079127",
+            "sid": "CPM1"
+        },
+        "Yasuoo": {
+            "password": "Cpm321",
+            "expiry": "2099-01-01",
+            "device": "1787364215",
+            "sid": "CPM1"
+        }
     }
-  }
 }
